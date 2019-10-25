@@ -1,0 +1,14 @@
+package com.fatec.scel.model;
+
+public class Livro {
+	String isbn;
+	String titulo;
+	String autor;
+
+	public Livro(String isbn, String titulo, String autor) {
+		super();
+		this.isbn = isbn;
+		this.titulo = titulo;
+		this.autor = autor;
+	}
+}

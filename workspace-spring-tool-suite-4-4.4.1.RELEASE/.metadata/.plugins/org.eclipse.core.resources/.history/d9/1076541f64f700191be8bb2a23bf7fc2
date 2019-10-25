@@ -1,0 +1,13 @@
+package com.fatec.scel.model;
+
+public class LivroRepository {
+	public void deleteAll() {
+	}
+
+	public void save(Livro livro) {
+	}
+
+	public int count() {
+		return 1;
+	}
+}
